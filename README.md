@@ -1,7 +1,7 @@
 #  Marketing Funnel & Conversion Analysis Dashboard
 
-## 📌 Project Overview
-This project focuses on analyzing bank phone call records using Python and Excel to find out why customers drop off and how to increase sales . We cleaned the data using Python and built a multi-stage marketing funnel dashboard in Excel to track customers from the first call to the final purchase . The analysis revealed that a massive number of customers drop off at the final closing stage, showed that mobile calls bring the highest number of conversions compared to landlines, and proved that sales success crashes quickly after multiple call attempts due to customer irritation . By combining funnel stages, communication channels, monthly seasons, and call frequency into one simple dashboard, this project provides clear business solutions—like retraining sales staff and setting a strict call limit per customer—to stop time wastage and boost bank revenue.
+## Project Overview
+This project focuses on analyzing bank phone call records using Python and Excel to find out why customers drop off and how to increase sales.We cleaned the data using Python and built a multi-stage marketing funnel dashboard in Excel to track customers from the first call to the final purchase . The analysis revealed that a massive number of customers drop off at the final closing stage, showed that mobile calls bring the highest number of conversions compared to landlines, and proved that sales success crashes quickly after multiple call attempts due to customer irritation . By combining funnel stages, communication channels, monthly seasons, and call frequency into one simple dashboard, this project provides clear business solutions—like retraining sales staff and setting a strict call limit per customer—to stop time wastage and boost bank revenue.
 
 ##  Objectives
 * Find the funnel stage where interested bank leads drop off.
@@ -29,5 +29,17 @@ This project focuses on analyzing bank phone call records using Python and Excel
 ## Strategic Recommendations
 * **Retrain Sales Pitch:** Give phone agents new closing scripts to handle customer doubts and stop the 83% end-of-funnel leakage.
 * **Enforce a 3-Call Cap:** Set a strict automated software dialer limit of a maximum of 3 calls per customer to stop wasting staff hours.
-* **Shift Campaign Budget:** Stop mass calling in low-ROI months like May; double down resources during peak seasons.
+* **Shift Campaign Budget:** Stop mass calling in low-performance month like May; double down resources during peak seasons.
+
+## Outcome
+
+* **Identified major conversion gap in the final stage, making deal closure the biggest challenge  
+* **Mobile calls perform best with highest conversion (14.92%)  
+* **Conversion drops after 3 call attempts due to customer fatigue  
+* **Found seasonal peaks (March, Sept, Oct, Dec) for better targeting  
+* **Provided strategies to improve conversions, save time, and boost revenue
+
+## Connect with me
+https://www.linkedin.com/in/harini-n-683418378
+  
 
