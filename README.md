@@ -33,11 +33,11 @@ This project focuses on analyzing bank phone call records using Python and Excel
 
 ## Outcome
 
-* **Identified major conversion gap in the final stage, making deal closure the biggest challenge  
-* **Mobile calls perform best with highest conversion (14.92%)  
-* **Conversion drops after 3 call attempts due to customer fatigue  
-* **Found seasonal peaks (March, Sept, Oct, Dec) for better targeting  
-* **Provided strategies to improve conversions, save time, and boost revenue
+* Identified major conversion gap in the final stage, making deal closure the biggest challenge  
+* Mobile calls perform best with highest conversion (14.92%)  
+* Conversion drops after 3 call attempts due to customer fatigue  
+* Found seasonal peaks (March, Sept, Oct, Dec) for better targeting  
+* Provided strategies to improve conversions, save time, and boost revenue
 
 ## Connect with me
 https://www.linkedin.com/in/harini-n-683418378
