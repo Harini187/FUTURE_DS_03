@@ -1,7 +1,7 @@
-#  Marketing Funnel & Conversion Analysis Dashboard
+#  Marketing Funnel & Conversion Performance Analysis
 
 ## Project Overview
-This project focuses on analyzing bank phone call records using Python and Excel to find out why customers drop off and how to increase sales.We cleaned the data using Python and built a multi-stage marketing funnel dashboard in Excel to track customers from the first call to the final purchase . The analysis revealed that a massive number of customers drop off at the final closing stage, showed that mobile calls bring the highest number of conversions compared to landlines, and proved that sales success crashes quickly after multiple call attempts due to customer irritation . By combining funnel stages, communication channels, monthly seasons, and call frequency into one simple dashboard, this project provides clear business solutions—like retraining sales staff and setting a strict call limit per customer—to stop time wastage and boost bank revenue.
+This project analyzes bank marketing call data to understand customer drop-offs and improve conversions.A marketing funnel dashboard was created using Python and Excel.The analysis showed major drop-offs at the final stage and better performance from mobile calls.It also helped improve overall campaign strategy.
 
 ##  Objectives
 * Find the funnel stage where interested bank leads drop off.
